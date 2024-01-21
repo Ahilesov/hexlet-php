@@ -1,0 +1,17 @@
+{
+    "name": "ahilesovv/hexlet-php",
+    "description": "ЕThe project hexlet-git",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Ahilesovv\\HexletPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ahilesovv"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {}
+}
